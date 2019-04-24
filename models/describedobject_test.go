@@ -19,7 +19,8 @@ import (
 	"testing"
 )
 
-var TestDescribedObject = DescribedObject{Timestamps: testTimestamps, Description: TestDescription}
+var TestDscription = "test description"
+var TestDescribedObject = DescribedObject{Timestamps: TestTimestamps, Description: TestDescription}
 
 func TestDescribedObject_String(t *testing.T) {
 	tests := []struct {
