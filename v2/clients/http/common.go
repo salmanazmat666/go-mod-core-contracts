@@ -8,11 +8,11 @@ package http
 import (
 	"context"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/errors"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/clients/http/utils"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/clients/interfaces"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/common"
+	"github.com/salmanazmat666/go-mod-core-contracts/errors"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/clients/http/utils"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/clients/interfaces"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/common"
 )
 
 type commonClient struct {

@@ -12,9 +12,9 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/v2"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/common"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/responses"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/common"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/responses"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

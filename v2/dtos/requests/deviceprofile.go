@@ -9,11 +9,11 @@ import (
 	"encoding/json"
 	"gopkg.in/yaml.v2"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/errors"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/common"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/models"
+	"github.com/salmanazmat666/go-mod-core-contracts/errors"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/common"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/models"
 )
 
 // DeviceProfileRequest defines the Request Content for POST DeviceProfile DTO.

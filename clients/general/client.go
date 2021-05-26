@@ -19,8 +19,8 @@ package general
 import (
 	"context"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/interfaces"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients/interfaces"
 )
 
 type GeneralClient interface {

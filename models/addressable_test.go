@@ -19,7 +19,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients"
 )
 
 const (

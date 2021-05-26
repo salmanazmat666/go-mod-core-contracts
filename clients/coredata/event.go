@@ -24,9 +24,9 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/interfaces"
-	"github.com/edgexfoundry/go-mod-core-contracts/models"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients/interfaces"
+	"github.com/salmanazmat666/go-mod-core-contracts/models"
 )
 
 // EventClient defines the interface for interactions with the Event endpoint on the EdgeX Foundry core-data service.

@@ -20,9 +20,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/urlclient/local"
-	"github.com/edgexfoundry/go-mod-core-contracts/models"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients/urlclient/local"
+	"github.com/salmanazmat666/go-mod-core-contracts/models"
 )
 
 func TestNewDeviceProfileClientWithConsul(t *testing.T) {

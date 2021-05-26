@@ -18,9 +18,9 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/interfaces"
-	"github.com/edgexfoundry/go-mod-core-contracts/models"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients/interfaces"
+	"github.com/salmanazmat666/go-mod-core-contracts/models"
 )
 
 // CommandClient defines the interface for interactions with the Command endpoint on core-metadata.

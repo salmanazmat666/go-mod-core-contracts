@@ -20,11 +20,11 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/interfaces"
-	"github.com/edgexfoundry/go-mod-core-contracts/models"
-	"github.com/edgexfoundry/go-mod-core-contracts/requests/states/admin"
-	"github.com/edgexfoundry/go-mod-core-contracts/requests/states/operating"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients/interfaces"
+	"github.com/salmanazmat666/go-mod-core-contracts/models"
+	"github.com/salmanazmat666/go-mod-core-contracts/requests/states/admin"
+	"github.com/salmanazmat666/go-mod-core-contracts/requests/states/operating"
 )
 
 // DeviceClient defines the interface for interactions with the Device endpoint on core-metadata.

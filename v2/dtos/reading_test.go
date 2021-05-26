@@ -8,9 +8,9 @@ package dtos
 import (
 	"testing"
 
-	v2 "github.com/edgexfoundry/go-mod-core-contracts/v2"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/common"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/models"
+	v2 "github.com/salmanazmat666/go-mod-core-contracts/v2"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/common"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/models"
 
 	"github.com/stretchr/testify/assert"
 )

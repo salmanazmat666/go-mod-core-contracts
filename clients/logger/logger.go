@@ -25,8 +25,8 @@ import (
 	stdLog "log"
 	"os"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/types"
-	"github.com/edgexfoundry/go-mod-core-contracts/models"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients/types"
+	"github.com/salmanazmat666/go-mod-core-contracts/models"
 
 	"github.com/go-kit/kit/log"
 )

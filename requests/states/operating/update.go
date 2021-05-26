@@ -17,7 +17,7 @@ package operating
 import (
 	"encoding/json"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/models"
+	"github.com/salmanazmat666/go-mod-core-contracts/models"
 )
 
 type UpdateRequest struct {

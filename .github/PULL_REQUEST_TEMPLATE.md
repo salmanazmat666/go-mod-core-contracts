@@ -4,7 +4,7 @@ Please check if your PR fulfills the following requirements:
 - [ ] Tests for the changes have been added (for bug fixes / features)
 - [ ] Docs have been added / updated (for bug fixes / features)
 
-**If your build fails** due to your commit message not passing the build checks, please review the guidelines here: https://github.com/edgexfoundry/go-mod-core-contracts/blob/master/.github/Contributing.md.
+**If your build fails** due to your commit message not passing the build checks, please review the guidelines here: https://github.com/salmanazmat666/go-mod-core-contracts/blob/master/.github/Contributing.md.
 
 
 ## What is the current behavior?

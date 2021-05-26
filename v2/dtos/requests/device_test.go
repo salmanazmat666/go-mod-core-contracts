@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/common"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/models"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/common"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/models"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

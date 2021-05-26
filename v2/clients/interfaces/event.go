@@ -8,10 +8,10 @@ package interfaces
 import (
 	"context"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/errors"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/common"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/requests"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/responses"
+	"github.com/salmanazmat666/go-mod-core-contracts/errors"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/common"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/requests"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/responses"
 )
 
 // EventClient defines the interface for interactions with the Event endpoint on the EdgeX Foundry core-data service.

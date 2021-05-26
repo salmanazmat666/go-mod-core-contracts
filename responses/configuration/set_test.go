@@ -1,7 +1,7 @@
 package configuration
 
 import (
-	"github.com/edgexfoundry/go-mod-core-contracts/models"
+	"github.com/salmanazmat666/go-mod-core-contracts/models"
 	"testing"
 )
 

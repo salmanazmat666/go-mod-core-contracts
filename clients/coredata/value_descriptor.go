@@ -20,9 +20,9 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/interfaces"
-	"github.com/edgexfoundry/go-mod-core-contracts/models"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients/interfaces"
+	"github.com/salmanazmat666/go-mod-core-contracts/models"
 )
 
 // ValueDescriptorClient defines the interface for interactions with the Value Descriptor endpoint on core-data.

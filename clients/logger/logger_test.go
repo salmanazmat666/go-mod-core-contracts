@@ -9,7 +9,7 @@ package logger
 import (
 	"testing"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/models"
+	"github.com/salmanazmat666/go-mod-core-contracts/models"
 
 	"github.com/stretchr/testify/assert"
 )

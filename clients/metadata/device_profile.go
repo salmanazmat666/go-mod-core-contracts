@@ -19,9 +19,9 @@ import (
 	"encoding/json"
 	"net/url"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/interfaces"
-	"github.com/edgexfoundry/go-mod-core-contracts/models"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients/interfaces"
+	"github.com/salmanazmat666/go-mod-core-contracts/models"
 )
 
 // DeviceProfileClient defines the interface for interactions with the DeviceProfile endpoint on metadata.

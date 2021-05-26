@@ -27,8 +27,8 @@ import (
 	"path/filepath"
 	"strconv"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/interfaces"
-	"github.com/edgexfoundry/go-mod-core-contracts/clients/types"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients/interfaces"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients/types"
 )
 
 // Helper method to get the body from the response after making the request

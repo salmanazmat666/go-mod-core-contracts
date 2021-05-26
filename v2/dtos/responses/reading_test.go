@@ -10,7 +10,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos"
 )
 
 func TestNewReadingResponse(t *testing.T) {

@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/errors"
+	"github.com/salmanazmat666/go-mod-core-contracts/errors"
 )
 
 var valueTypes = []string{

@@ -8,8 +8,8 @@ package interfaces
 import (
 	"context"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/errors"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/common"
+	"github.com/salmanazmat666/go-mod-core-contracts/errors"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/common"
 )
 
 type CommonClient interface {

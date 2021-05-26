@@ -18,7 +18,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/clients"
+	"github.com/salmanazmat666/go-mod-core-contracts/clients"
 )
 
 // CommandResponse identifies a specific device along with its supported commands.

@@ -12,11 +12,11 @@ import (
 	"runtime"
 	"testing"
 
-	edgexErrors "github.com/edgexfoundry/go-mod-core-contracts/errors"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/common"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/requests"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/responses"
+	edgexErrors "github.com/salmanazmat666/go-mod-core-contracts/errors"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/common"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/requests"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/responses"
 
 	"github.com/google/uuid"
 	"github.com/stretchr/testify/assert"

@@ -1,4 +1,4 @@
-module github.com/edgexfoundry/go-mod-core-contracts
+module github.com/salmanazmat666/go-mod-core-contracts
 
 require (
 	github.com/fxamacker/cbor/v2 v2.2.0

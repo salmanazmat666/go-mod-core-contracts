@@ -6,8 +6,8 @@
 package responses
 
 import (
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos"
-	"github.com/edgexfoundry/go-mod-core-contracts/v2/dtos/common"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos"
+	"github.com/salmanazmat666/go-mod-core-contracts/v2/dtos/common"
 )
 
 // ReadingResponse defines the Response Content for GET reading DTO.
