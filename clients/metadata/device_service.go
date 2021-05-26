@@ -26,6 +26,8 @@ import (
 
 // DeviceServiceClient defines the interface for interactions with the DeviceService endpoint on metadata.
 type DeviceServiceClient interface {
+	// DeviceServices loads a all device services
+	DeviceServices(ctx context.Context) ([]models.DeviceService, error)
 	// Add a new device service
 	Add(ctx context.Context, ds *models.DeviceService) (string, error)
 	// DeviceServiceForName loads a device service for the specified name
@@ -61,6 +63,19 @@ func (dsc *deviceServiceRestClient) UpdateLastReported(ctx context.Context, id s
 
 func (dsc *deviceServiceRestClient) Add(ctx context.Context, ds *models.DeviceService) (string, error) {
 	return clients.PostJSONRequest(ctx, "", ds, dsc.urlClient)
+}
+
+func (dsc *deviceServiceRestClient) DeviceServices(ctx context.Context) ([]models.DeviceService, error) {
+
+	data, err := clients.GetRequest(ctx, "", dsc.urlClient)
+	if err != nil {
+		return []models.DeviceService{}, err
+	}
+
+	dss := []models.DeviceService{}
+	err = json.Unmarshal(data, &dss)
+
+	return dss, err
 }
 
 func (dsc *deviceServiceRestClient) DeviceServiceForName(ctx context.Context, name string) (models.DeviceService, error) {
